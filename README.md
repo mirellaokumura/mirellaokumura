@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirellaokumura
-- 👀 I’m interested in Math, Music, Books.
+- 👀 I’m interested in Math, Music, Books, Nails, ...
 - 🌱 I’m currently learning to programate in HTML
-- 💞️ I’m looking to collaborate on teaching and learnin with my students how to do it.
+- 💞️ I’m looking to collaborate on teaching and learning with my students how to do it.
 - 📫 How to reach me mirellakiyo@prof.educacao.sp.gov.br
 
 <!---
